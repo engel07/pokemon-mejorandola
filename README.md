@@ -1,0 +1,4 @@
+pokemon-mejorandola
+===================
+
+Imagen dinamica 
